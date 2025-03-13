@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# CineMood :
+    - Create React App
+    - Configured TailwindCSS
+    - Header
+    - Routing of App
+    - Login Form 
+    - Sign up Form 
+    - Form Validation
+    - useRef Hook
+
 # Features of my project :
 
     - Login-SignUp page
