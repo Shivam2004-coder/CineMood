@@ -11,6 +11,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     - Sign up Form 
     - Form Validation
     - useRef Hook
+    - FireBase setup
+    - Deploying our app to Production
+    - Create signup user account
+    - Implement Sign In User API
+    - Created Redux Store with userSlice
+    - Implemented SignOut
+    - Update Profile
+    - Fetch from TMDB api
 
 # Features of my project :
 
